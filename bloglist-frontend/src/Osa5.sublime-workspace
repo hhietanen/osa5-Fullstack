@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$",
+				"$ctrl"
+			],
+			[
+				"$state",
+				"$stateProvider"
+			],
+			[
+				"open",
+				"openEditing"
+			],
+			[
+				"clos",
+				"closeEditing"
+			],
+			[
+				"state",
+				"StateFactory"
+			],
+			[
+				"email",
+				"emailAddress"
+			],
+			[
+				"setMobile",
+				"setMobileForm"
+			],
+			[
+				"setMobi",
+				"setMobileForm"
+			],
+			[
+				"change",
+				"changeLanguage"
+			],
+			[
+				"mobil",
+				"mobileForm"
+			],
+			[
+				"State",
+				"StateFactory"
+			],
+			[
+				"sho",
+				"showError"
+			],
+			[
+				"ng-",
+				"ng-click\tAngularJS"
+			],
+			[
+				"mobile",
+				"mobileCheck"
+			],
+			[
+				"employeeM",
+				"employeeMales"
+			],
+			[
+				"md-di",
+				"md-dialog-content"
+			],
+			[
+				"md-",
+				"md-content"
+			],
+			[
+				"ordered",
+				"orderedVirkatodistus"
+			],
+			[
+				"yhteys",
+				"yhteyshenkilö"
+			],
+			[
+				"text",
+				"ng-textarea\tAngularJS"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"kul",
+				"kulkuneuvo"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"ng-s",
+				"ng-swipe-left\tAngularJS"
+			],
+			[
+				"ng-if",
+				"ng-if\tAngularJS"
+			],
+			[
+				"$loca",
+				"$locale\tAngularJS"
+			],
+			[
+				"ng",
+				"ng-click\tAngularJS"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"person",
+				"person"
+			],
+			[
+				"app",
+				"app"
+			],
+			[
+				"botto",
+				"border-bottom-width"
+			],
+			[
+				"gapi",
+				"gapi"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"lat",
+				"lat"
+			],
+			[
+				"re",
+				"returnUrl"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"new",
+				"newPerson"
+			],
+			[
+				"$cop",
+				"$scope\tAngularJS"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"border-botto",
+				"border-bottom-width"
+			],
+			[
+				"get",
+				"getPersons"
+			],
+			[
+				"update",
+				"updatePerson"
+			],
+			[
+				"remo",
+				"removePerson"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ng-cll",
+				"ng-dblclick\tAngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"div",
+				"formData-vainaja"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"From",
+				"Formprocess"
+			],
+			[
+				"from",
+				"formApp"
+			],
+			[
+				"ng-in",
+				"ng-init\tAngularJS"
+			],
+			[
+				"ng-hide",
+				"ng-hide\tAngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"deceased",
+				"deceasedForm"
+			],
+			[
+				"$rout",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"$location",
+				"$locationProvider\tAngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider\tAngularJS"
+			],
+			[
+				"vainaja",
+				"vainaja_hetu"
+			],
+			[
+				"vaina",
+				"vainaja_hetu"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"s",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import React from 'react'\nimport Blog from './components/Blog'\nimport blogService from './services/blogs'\nimport loginService from './services/login'\n\nclass App extends React.Component {\n  constructor(props) {\n    super(props)\n    this.state = {\n      blogs: [],\n      user: null\n    }\n  }\n\n\n// 15.5. 3 tuntia tehtäviin 5.1. ja 5.2.\n// 12.8. 1 tunti vanhojen juttujen ihmettelyyn ja 5.2. tehtävän korjaamiseen.\n// \n  componentDidMount() {\n    blogService.getAll().then(blogs =>\n      this.setState({ blogs })\n    )\n\n  const loggedUserJSON = window.localStorage.getItem('loggedBlogappUser')\n  if (loggedUserJSON) {\n    const user = JSON.parse(loggedUserJSON)\n    this.setState({user})\n   // noteService.setToken(user.token)\n  }\n\n  } \n\n  handleLoginFieldChange = (event) => {\n    this.setState({ [event.target.name]: event.target.value })\n  }\n\nlogOut = async (event) => {\n//    event.preventDefault()\n    try {window.localStorage.removeItem('loggedBlogappUser')\n    console.log('Jahuu logged out')\n\n} catch (exception){\n  console.log(exception)}\n}\n\n  login = async (event) => {\n    event.preventDefault()\n    try {\n      const user = await loginService.login({\n        username: this.state.username,\n        password: this.state.password\n      })\n\n\n    window.localStorage.setItem('loggedBlogappUser', JSON.stringify(user))\n//    blogService.setToken(user.token)\n    this.setState({ username: '', password: '', user})\n  } catch(exception) {\n  this.setState({\n        error: 'käyttäjätunnus tai salasana virheellinen',\n      })\n      setTimeout(() => {\n        this.setState({ error: null })\n      }, 5000)\n    }\n  }\n\n blogs = () => (\n    <div>\n    {this.state.user.name} on kirjautunut sisälle\n    <button onClick={this.logOut}>Kirjaudu ulos</button>\n      <h2>blogit</h2>\n      {this.state.blogs.map(blog =>\n        <Blog key={blog._id} blog={blog} />\n      )}\n    </div>\n  )\n\n\nloginForm = () => (\n  <div>\n    <h2>Kirjaudu</h2>\n\n    <form onSubmit={this.login}>\n      <div>\n        käyttäjätunnus\n        <input\n          type=\"text\"\n          name=\"username\"\n          value={this.state.username}\n          onChange={this.handleLoginFieldChange}\n        />\n      </div>\n      <div>\n        salasana\n        <input\n          type=\"password\"\n          name=\"password\"\n          value={this.state.password}\n          onChange={this.handleLoginFieldChange}\n        />\n      </div>\n      <button type=\"submit\">kirjaudu</button>\n    </form>\n  </div>\n\n)\n\n\nrender() {\n\n    return (\n      <div>\n    {this.state.user === null ?\n      this.loginForm() :\n      this.blogs()\n    }\n</div>\n    )\n  }\n\n\n\n}\n\nexport default App;\n",
+			"file": "App.js",
+			"file_size": 2541,
+			"file_write_time": 131785559831186467,
+			"settings":
+			{
+				"buffer_size": 2611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hxhietan/5osa/bloglist-frontend/package.json",
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"phpfmt: format now"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: |uppercase"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 700.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hxhietan/5osa/bloglist-frontend",
+		"/Users/hxhietan/5osa/bloglist-frontend/src",
+		"/Users/hxhietan/5osa/bloglist-frontend/src/components",
+		"/Users/hxhietan/5osa/bloglist-frontend/src/services"
+	],
+	"file_history":
+	[
+		"/Users/hxhietan/5osa/bloglist-frontend/src/services/login.js",
+		"/Users/hxhietan/osa_4/controllers/users.js",
+		"/Users/hxhietan/osa_4/models/user.js",
+		"/Users/hxhietan/osa_4/models/blog.js",
+		"/Users/hxhietan/osa_4/index.js",
+		"/Users/hxhietan/osa_4/tests/blog_api.test.js",
+		"/Users/hxhietan/osa_4/controllers/login.js",
+		"/Users/hxhietan/osa_4/controllers/blogs.js",
+		"/Users/hxhietan/osa_4/.env",
+		"/Users/hxhietan/osa_4/package.json",
+		"/Users/hxhietan/osa_4/utils/list_helper.js",
+		"/Users/hxhietan/osa_4/.eslintignore",
+		"/Users/hxhietan/osa_4/.gitignore",
+		"/Users/hxhietan/osa_4/tests/list_helper.test.js",
+		"/Users/hxhietan/osa_4/utils/config.js",
+		"/Users/hxhietan/osa_4/.eslintrc.js",
+		"/Users/hxhietan/osa_4/blogiFrontend/src/App.test.js",
+		"/Users/hxhietan/osa_4/.eslinterc.js",
+		"/Users/hxhietan/osa_4/models/.eslintignore",
+		"/Users/hxhietan/osa1/deploy.sh",
+		"/Users/hxhietan/osa1/package.json",
+		"/Users/hxhietan/osa1/src/services/peoples.js",
+		"/Users/hxhietan/osa1/db.json",
+		"/Users/hxhietan/osa1/src/db.json",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtäva2_19 palvelin.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä2_19.css",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä2_19.js",
+		"/Users/hxhietan/osa1/src/index.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä2_18.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä2_10.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä0_5.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä2_13.js",
+		"/Users/hxhietan/osa1/src/Palautus2/tehtävä0_6.js",
+		"/Users/hxhietan/osa1/src/Kurssi.js",
+		"/Users/hxhietan/osa1/src/tehtävä1_11.js",
+		"/Users/hxhietan/osa1/src/tehtävä1_14.js",
+		"/Users/hxhietan/osa1/src/tehtävä2_5.js",
+		"/Users/hxhietan/osa1/src/tehtävä1_5.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/Gruntfile.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/clienter.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/master.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/sidebarMenuTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/companyTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/company.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/menus.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/index.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/desktopMenuTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/stepperTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/stepper.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/clientFormTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/protection.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/routes.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/protectionTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/translations.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/employeesTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/people/clientForm.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/bower.json",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/employees.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/partners.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/people.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/relativeTemplate.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/relative.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/menu.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/peopler2.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/accountor.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/relativeTemplate2.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/styles/scss/main.scss",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/login.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/accountor2.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/components/account.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/googleDocsCollection.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/googleDocsCard.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/app.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/people/relativeForm.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/login.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/company.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/people.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/admin.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/angularfire/config.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/inputFieldBuilder.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/firebase.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/account.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/states.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/styles/main.css",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/account.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/users.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/googleDocsCardCollection.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/components/googleDocsMakeButton.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/errors.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/accounts.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/googleDocsMakeButton.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/shareClientDialog.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/googleDocsCard.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/googleDocsMakeButton.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/googledrive.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/node_modules/underscore-contrib/test/vendor/qunit.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/tasks/task1.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/tasks/task2.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/scripts/scripts.6b873353.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/company.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/partners.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/people.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/tasks/task1.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/tasks/task2.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/documentation/controllers_people.js.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/tasks.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/client.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/clientSelector.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/peopleForm.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/components/inputFieldBuilder.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/inputFieldBuilder.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/theme.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/clients.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/photos.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/filters/capitalize.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/filters/orderObjectBy.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/directives/components/ssn.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/googleDocsCollection.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/translates.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/documentation/services_states.js.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/documentation/Factories.StateFactory.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/documentation/controllers_account.js.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/backend/dist/views/account.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/documentation/Controllers.AccountCtrl.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/views/templates/clientSelector.html",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/controllers/admin.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/dialogs.js",
+		"/Applications/MAMP/htdocs/tyosuojelu/app/scripts/services/relatives.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"logOut",
+			"noteService"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/hxhietan/5osa/bloglist-frontend/package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/JSHint/JSHint.sublime-build",
+	"project": "Osa5.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"font",
+				"bower_components/components-font-awesome/fonts/fontawesome-webfont.svg"
+			],
+			[
+				"talle",
+				"app/views/assets/form-talletus.html"
+			],
+			[
+				"leski",
+				"app/views/form-leski.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/Templates/templates.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"update",
+				"update"
+			]
+		],
+		"width": 568.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,11 +1,23 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import counterReducer from './reducer'
+import {createStore} from 'redux'
+
+const store = createStore(counterReducer)
+let state= store.getState()
+let palautteita = 0
+let positiivisia 
+
+const klikki = (nappi) => () => {
+    store.dispatch({type: nappi})
+    state= store.getState()
+    palautteita = nappi === 'ZERO' ? 0 : 1
+    positiivisia = state.good/((state.good + state.bad + state.ok)/100)
+  }
+
 
 
 const Statistiikka = () => {
-  const palautteita = 0
-
   if (palautteita === 0) {
     return (
       <div>
@@ -21,51 +33,50 @@ const Statistiikka = () => {
       <table>
         <tbody>
           <tr>
-            <td>hyvä</td>
+            <td>hyvä {state.good}</td>
             <td></td>
           </tr>
           <tr>
-            <td>neutraali</td>
+            <td>neutraali {state.ok}</td>
             <td></td>
           </tr>
           <tr>
-            <td>huono</td>
+            <td>huono {state.bad}</td>
             <td></td>
           </tr>
           <tr>
-            <td>keskiarvo</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>positiivisia</td>
+            <td>positiivisia {positiivisia}%</td>
             <td></td>
           </tr>
         </tbody>
       </table>
-
-      <button>nollaa tilasto</button>
-    </div >
+      <button onClick={klikki('ZERO')}>Nollaa</button>
+    </div>
   )
 }
 
+
 class App extends React.Component {
-  klik = (nappi) => () => {
-
-  }
-
+  
   render() {
     return (
       <div>
         <h2>anna palautetta</h2>
-        <button onClick={this.klik('GOOD')}>hyvä</button>
-        <button onClick={this.klik('OK')}>neutraali</button>
-        <button onClick={this.klik('BAD')}>huono</button>
+        <button onClick={klikki('GOOD')}>hyvä</button>
+        <button onClick={klikki('OK')}>neutraali</button>
+        <button onClick={klikki('BAD')}>huono</button>
         <Statistiikka />
       </div>
     )
   }
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const render = () => {
+  ReactDOM.render(<App />, document.getElementById('root'))
+}
+
+render()
+store.subscribe(render)
+
 
 export default App;

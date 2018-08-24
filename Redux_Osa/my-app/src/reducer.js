@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import {createStore} from 'redux'
+
 
 const initialState = {
   good: 0,
@@ -12,25 +12,12 @@ const counterReducer = (state = initialState, action) => {
   console.log(action)
   switch (action.type) {
     case 'GOOD':
-      const newState = 
-      {good: state.good +1,
-        ok: state.ok,
-        bad: state.bad}
-      return newState
+    console.log(state)
+      return {...state, good: state.good+1}    
     case 'OK':
-      const okState = {
-        good: state.good,
-        ok: state.ok+1,
-        bad: state.bad
-      }
-      return okState    
-      case 'BAD':
-      const badState = {
-        good: state.good,
-        ok: state.ok,
-        bad: state.bad+1
-      }
-      return badState    
+      return {...state, ok: state.ok+1}    
+    case 'BAD':
+      return {...state, bad: state.bad+1}    
     case 'ZERO':
       const zeroState = {
         good: 0,
